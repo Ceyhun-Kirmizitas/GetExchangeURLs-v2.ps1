@@ -67,7 +67,7 @@ Originally written by [Paul Cunningham](https://github.com/cunninghamp/Configure
 
 Edited by Ali Tajran.
 
-Further updated by Ceyhun Kirmizitas.
+Further improved by Ceyhun Kirmizitas.
 
 See [CHANGELOG.md](CHANGELOG.md) for the changes in this version.
 
