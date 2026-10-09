@@ -1,0 +1,2 @@
+# Keep PowerShell scripts byte-for-byte (UTF-8 BOM + CRLF) so the SHA256 matches.
+*.ps1 -text

@@ -1,5 +1,16 @@
 # Changelog
 
+## 2.2 - 2026-10-09
+
+- Improved server selection. Invalid server names are skipped, and duplicate servers are processed only once.
+- Improved Autodiscover and ASA handling to prevent missing information when a query fails.
+- Added clearer warnings for unavailable or unsupported Exchange servers.
+- Simplified ASA reporting by removing the misleading credential status information.
+- Improved text file export with better path validation and error handling.
+- Updated the startup and completion messages for a clearer user experience.
+- Added a progress message while reading Exchange configuration.
+- Updated by Ceyhun Kirmizitas.
+
 ## 2.1 - 2026-09-14
 
 - Added Alternate Service Account (ASA) visibility to the Client Access Service output.
