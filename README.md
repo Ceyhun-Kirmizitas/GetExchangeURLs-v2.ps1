@@ -8,8 +8,8 @@ The script is read-only. It does not change Exchange configuration.
 
 ## Download
 
-- [GitHub Release v2.2](https://github.com/Ceyhun-Kirmizitas/GetExchangeURLs-v2.ps1/releases/tag/v2.2)
-- [Download GetExchangeURLs-v2.ps1 (v2.2)](https://raw.githubusercontent.com/Ceyhun-Kirmizitas/GetExchangeURLs-v2.ps1/v2.2/GetExchangeURLs-v2.ps1)
+- [GitHub source](GetExchangeURLs-v2.ps1)
+- [GitHub raw download](https://raw.githubusercontent.com/Ceyhun-Kirmizitas/GetExchangeURLs-v2.ps1/main/GetExchangeURLs-v2.ps1)
 
 ## What it shows
 
